@@ -6,8 +6,9 @@ extends(src='layout.sgr')
         img(src='/img/sophies-narwhal.jpg')
 
       #hero
-        h1 Scarlette's 7th Birthday Party!
-        p.h3 TBD
+        h1 Scarlette's 7th Birthday
+        h1 Magical Unicorn Party!
+        p.h3 Febuary 3rd 1-4pm
         p.h3 2606 Foster Ave
         p.h3 Baltimore MD 21224
 
