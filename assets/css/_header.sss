@@ -1,0 +1,31 @@
+header
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  margin: 2em 0
+
+  & a
+    font-family: var(--bodyFont)
+    font-weight: 300
+    text-transform: uppercase
+    text-decoration: none
+    color: white
+    background: var(--lightBlue)
+    border-radius: 1em
+    transition: background 1000ms ease
+    padding: .25em 1em
+
+    &:hover
+      background: var(--darkBlue)   
+
+  & #home
+    flex: 1 2 auto
+
+    & a
+      margin-left: 1em
+
+  & nav
+
+    & a 
+      margin-right: 1em
+
